@@ -1,8 +1,22 @@
 # Taurek AI ⚡
 
-> AI chat assistant for TAURON customers. Get energy saving tips, understand your bills, earn Eco Points — all with a Silesian twist.
-
 Built for **AI Challenge powered by TAURON**.
+
+## Quick start
+
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Add your Anthropic API key
+echo "VITE_ANTHROPIC_API_KEY=your_key_here" > .env
+
+# 3. Run
+npm run dev
+# → http://localhost:5173
+```
+
+---
 
 ---
 
